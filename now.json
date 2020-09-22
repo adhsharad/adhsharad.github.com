@@ -1,7 +1,7 @@
 {
   "public": false,
   "name": "Tableau-Extension-ExportAll",
-  "alias": ["exportallextension.theinformationlab.io"],
+  "alias": ["adhsharad.github.io"],
   "version": 2,
   "regions": ["all"],
   "routes": [
